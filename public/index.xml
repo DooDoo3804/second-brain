@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Components</title>
+    <link>https://quartz.jzhao.xyz/tags/component</link>
+    <guid>https://quartz.jzhao.xyz/tags/component</guid>
+    <description>Want to create your own custom component? Check out the advanced guide on creating components for more information.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:43 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz 4</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are already using Quartz to publish personal notes, wikis, and digital gardens to the web.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Hosting</title>
+    <link>https://quartz.jzhao.xyz/hosting</link>
+    <guid>https://quartz.jzhao.xyz/hosting</guid>
+    <description>Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!). However, if you’d like to publish your site to the world, you need a way to host it online.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Wikilinks</title>
+    <link>https://quartz.jzhao.xyz/features/wikilinks</link>
+    <guid>https://quartz.jzhao.xyz/features/wikilinks</guid>
+    <description>Wikilinks were pioneered by earlier internet wikis to make it easier to write links across pages without needing to write Markdown or HTML links each time.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Table of Contents</title>
+    <link>https://quartz.jzhao.xyz/features/table-of-contents</link>
+    <guid>https://quartz.jzhao.xyz/features/table-of-contents</guid>
+    <description>Quartz can automatically generate a table of contents from a list of headings on each page. It will also show you your current scroll position on the site by marking headings you’ve scrolled through with a different colour.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Syntax Highlighting</title>
+    <link>https://quartz.jzhao.xyz/features/syntax-highlighting</link>
+    <guid>https://quartz.jzhao.xyz/features/syntax-highlighting</guid>
+    <description>Syntax highlighting in Quartz is completely done at build-time. This means that Quartz only ships pre-calculated CSS to highlight the right words so there is no heavy client-side bundle that does the syntax highlighting.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>SPA Routing</title>
+    <link>https://quartz.jzhao.xyz/features/SPA-Routing</link>
+    <guid>https://quartz.jzhao.xyz/features/SPA-Routing</guid>
+    <description>Single-page-app style rendering. This prevents flashes of unstyled content and improves the smoothness of Quartz. Under the hood, this is done by hijacking page navigations and instead fetching the HTML via a GET request and then diffing and selectively replacing parts of the page using micromorph.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>RSS Feed</title>
+    <link>https://quartz.jzhao.xyz/features/RSS-Feed</link>
+    <guid>https://quartz.jzhao.xyz/features/RSS-Feed</guid>
+    <description>Quartz creates an RSS feed for all the content on your site by generating an index.xml file that RSS readers can subscribe to. Because of the RSS spec, this requires the baseUrl property in your configuration to be set properly for RSS readers to pick it up properly.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Recent Notes</title>
+    <link>https://quartz.jzhao.xyz/features/recent-notes</link>
+    <guid>https://quartz.jzhao.xyz/features/recent-notes</guid>
+    <description>Quartz can generate a list of recent notes for based on some filtering and sorting criteria. Though this component isn’t included in any layout by default, you can add it by using Component.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item><item>
+    <title>Private Pages</title>
+    <link>https://quartz.jzhao.xyz/features/private-pages</link>
+    <guid>https://quartz.jzhao.xyz/features/private-pages</guid>
+    <description>There may be some notes you want to avoid publishing as a website. Quartz supports this through two mechanisms which can be used in conjunction: Filter Plugins § Filter plugins are plugins that filter out content based off of certain criteria.</description>
+    <pubDate>Tue, 28 Nov 2023 14:42:42 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
