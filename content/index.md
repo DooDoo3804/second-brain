@@ -11,7 +11,7 @@ title: Welcome to DooDoo's Digital Garden
 > 추후 구현 예정
 
 > [!hint]
-> git pages에 quartz를 배포하고 관리하는 방법은 [quartz 4.0](https://quartz.jzhao.xyz/)와 [Quartz v4](https://github.com/jackyzha0/quartz)를 참고
+> GitHub Pages에 Quartz를 배포하고 관리하는 방법은 [quartz 4.0](https://quartz.jzhao.xyz/)와 [Quartz v4](https://github.com/jackyzha0/quartz)를 참고
 
 
 >[!memo]- 추후 구현 기능 예정

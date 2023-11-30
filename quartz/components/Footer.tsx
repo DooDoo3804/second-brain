@@ -14,14 +14,18 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © 2023 All rights reserved.
+          <br/>
+          Powered By <a href="https://github.com/doodoo3804">DooDoo</a>
         </p>
+        <p></p>
+        
         <ul>
-          {Object.entries(links).map(([text, link]) => (
+          {/* {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>
             </li>
-          ))}
+          ))} */}
         </ul>
       </footer>
     )
