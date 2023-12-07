@@ -6,6 +6,9 @@ tags:
 
 [Pyinstaller](https://pyinstaller.org/en/stable/)를 사용하면 파이썬으로 제작한 프로그램을 간단하게 실행 파일로 만들 수 있다. 실행 파일에 파이썬도 포함되어 있기 때문에 파이썬이 설치되지 않은 pc에서도 실행이 가능하다. 쉘에 아래 명령어를 통해 설치할 수 있다.
 
+## Pyinstaller 사용하기
+
+
 ```bash
 pip install pyinstaller
 ```
