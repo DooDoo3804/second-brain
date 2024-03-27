@@ -60,7 +60,7 @@ const user = await dataSource.manager
 
 ### 3 Repository
 
-`getRepository()`의 파라미터에 엔티티를 명시하여 지정한 후, `createQueryBuilder()`에는 테이블을 명시하고 사용한다.
+`getRepository()`의 파라미터에 엔티티를 명시하여 지정한 후, `createQueryBuilder()`에는 테이블을 명시하고 사용한다. 주로 이 방법으로 사용한다.
 
 ```ts title="repository"
 const user = await dataSource
@@ -70,4 +70,3 @@ const user = await dataSource
 	.getOne()
 ```
 
-자세한 쿼리 빌더 사용은 을 참고하면 된다.
